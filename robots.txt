@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://myagentsparty.com/sitemap.xml
